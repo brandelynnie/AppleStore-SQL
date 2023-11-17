@@ -1,12 +1,11 @@
 # AppleStore-SQL
 
+Coding done with online IDE https://sqliteonline.com
+Data sourced from: https://www.kaggle.com/datasets/ramamet4/app-store-apple-data-set-10k-apps?select=AppleStore.csv
 
-/** Conclusions for the stakeholders. **/
-
--- As stated earlier:
-/* Let's consider how analysis of this data may help someone seeking to make their own app.*/
+This analysis has the aim to pinpoint important insights for stakeholders such as someone wanting to create their own app.
+Some examples of these targets would be:
 -- What are the most popular categories?
 -- What price would be good?
 -- How to maximize user ratings?
 
-/** **/
