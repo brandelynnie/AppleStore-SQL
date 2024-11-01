@@ -4,6 +4,8 @@ Data sourced from: https://www.kaggle.com/datasets/ramamet4/app-store-apple-data
 
 11/1/2024 - Refreshing Project Format
 
+________________
+
 This analysis has the aim to pinpoint important insights for stakeholders such as someone wanting to create their own app.
 Some examples of these targets would be:
 
